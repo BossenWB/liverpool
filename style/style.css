@@ -64,8 +64,8 @@ color: #F0E68C;
  h1{
 color: dimgray;
 font-size: 64px;
-padding-top: 30px;
-padding-left: 10px;
+margin-bottom: 30px;
+
 
  }
 
@@ -88,8 +88,8 @@ background-size: 100%;
 h1 {
 color: #e31b23;
 text-shadow: 2px 2px rgba(0, 0,0, 0.5);
-padding-left: 280px;
-padding-top: 190px;
+text-align: center;
+margin-top: 6px;
    }
 
    a {
@@ -97,7 +97,44 @@ color: whitesmoke;
 
    }
 
+   h2 {
+color: whitesmoke;
+text-shadow: 1px 1px rgba(0, 0, 0, 0.2) ;
+margin-left: 25%;
+margin-right: 60%;
+margin-top: 85px;
+padding: 20px;
+background-color: #e31b23;
 
+
+
+   }
+
+
+   .navdown {
+      margin-top: 50%;
+      display: flex;
+      background-color: #e31b23;
+      padding: 15px;
+      align-items: center;
+      justify-content: space-evenly;
+      box-shadow: rgba(227, 27, 35,0.3 );
+
+   
+   }
+
+
+  .nere{
+  display: flex;
+  list-style: none;
+
+  }
+
+  .nere li {
+margin-right: 10px;
+margin-left: 10px;
+
+  }
 
 
 
