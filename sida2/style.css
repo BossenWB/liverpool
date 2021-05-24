@@ -113,3 +113,45 @@ border-radius: 3%;
     background-color: #e31b23;
     border-radius: 3%;
 }
+
+.bob {
+     margin-left: 15%;
+    padding: 3px;
+    background-color: #e31b23;
+    border-radius: 3%;
+    margin-top: 7%;
+}
+
+.bobtxt {
+    margin-left: 54%;
+    margin-right: 15%;
+    margin-top: -17%;
+    padding: 2%;
+    background-color: #e31b23;
+    border-radius: 3%;
+
+}
+
+.kenny {
+    margin-left: 54%;
+    margin-top: 4%;
+    margin-right: 12%;
+    padding: 3px;
+    background-color: #e31b23;
+    border-radius: 3%;
+
+}
+
+.kennytxt{  
+    margin-left: 15%;
+    margin-right: 54%;
+    margin-top: -17%;
+    padding: 2%;
+    background-color: #e31b23;
+    border-radius: 3%;
+
+
+
+
+}
+
