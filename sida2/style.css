@@ -31,6 +31,85 @@ body{
     font-size: 33px;
     letter-spacing: 3px;
     }
+
+    li {
+
+        color:whitesmoke;
+
+
+    }
     
-    
-   
+    a:visited {
+color: whitesmoke;
+
+    }
+body {
+
+    background-image: url(deividas-toleikis-ZHs61JtIbRQ-unsplash.jpg);
+    background-size: cover;
+
+}
+
+h1{
+font-family: sans-serif;
+text-align: center;
+color: #e31b23;
+text-shadow: rgba(0, 0, 0, 0.2)
+
+}
+
+.arena {
+color:#e31b23;
+margin-left: 17%;
+margin-top: 10%;
+
+
+
+}
+ 
+.anfield{
+
+    margin-left: 15%;
+    padding: 3px;
+    background-color: #e31b23;
+    border-radius: 3%;
+}
+
+.anfieldtxt{
+ margin-left: 54%;
+ margin-right: 15%;
+ margin-top: -17%;
+ padding: 2%;
+ background-color: #e31b23;
+ border-radius: 3%;
+
+ 
+
+}
+
+.heros {
+    margin-top: 15%;
+    margin-left: 17%;
+    color: #e31b23;
+}
+
+.bill {
+margin-left: 54%;
+margin-top: 3%;
+margin-right: 12%;
+padding: 3px;
+background-color: #e31b23;
+border-radius: 3%;
+
+
+
+}
+
+.billtxt {
+    margin-left: 15%;
+    margin-right: 54%;
+    margin-top: -17%;
+    padding: 2%;
+    background-color: #e31b23;
+    border-radius: 3%;
+}
